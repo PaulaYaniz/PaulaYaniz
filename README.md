@@ -1,3 +1,6 @@
-### Welcome to my Personal Repo
-- I’m currently working on CSCS2100 and CSCI3300
-- Fun fact: I've done hitchhiking in 3 different countries!
+### Hi, I’m Paula!
+
+- Studying Computer Science and Business Administration at Washington and Lee University
+- Interested in human–computer interaction and human–AI collaboration
+- Currently taking CSCI 2100: Software Development and CSCI 3300: Theory of Computation
+- Fun fact: I’ve hitchhiked in three different countries!
